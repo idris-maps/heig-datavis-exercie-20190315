@@ -5,7 +5,6 @@ const DATA = require('./asylum.json')
 const fetch = require('node-fetch');
 const d3 = require('d3');
 const fs = require('fs');
-const DATA = require('./asylum.json');
 const list = DATA.map(d => ({country : d.country, affected:d.affected}));
 const countryList= list;
 const tab = [];
