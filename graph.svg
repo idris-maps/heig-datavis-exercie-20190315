@@ -1,0 +1,23 @@
+<svg width="1920" heigth="1080" xmlns="http://www.w3.org/2000/svg">
+	<rect width="30" height="540" x="65" y="0" fill="green" />
+	<text x="65" y="555" font-family= "monospace" font-size="10">Canada 54 </text>,<rect width="30" height="60" x="130" y="0" fill="green" />
+	<text x="130" y="75" font-family= "monospace" font-size="10">Norway 6 </text>,<rect width="30" height="210" x="195" y="0" fill="green" />
+	<text x="195" y="225" font-family= "monospace" font-size="10">USA 21 </text>,<rect width="30" height="40" x="260" y="0" fill="green" />
+	<text x="260" y="55" font-family= "monospace" font-size="10">Austria 4 </text>,<rect width="30" height="70" x="325" y="0" fill="green" />
+	<text x="325" y="85" font-family= "monospace" font-size="10">Germany 7 </text>,<rect width="30" height="60" x="390" y="0" fill="green" />
+	<text x="390" y="75" font-family= "monospace" font-size="10">Netherlands 6 </text>,<rect width="30" height="50" x="455" y="0" fill="green" />
+	<text x="455" y="65" font-family= "monospace" font-size="10">Australia 5 </text>,<rect width="30" height="30" x="520" y="0" fill="green" />
+	<text x="520" y="45" font-family= "monospace" font-size="10">Liechtenstein 3 </text>,<rect width="30" height="10" x="585" y="0" fill="green" />
+	<text x="585" y="25" font-family= "monospace" font-size="10">Korea 1 </text>,<rect width="30" height="10" x="650" y="0" fill="green" />
+	<text x="650" y="25" font-family= "monospace" font-size="10">Czech Rep 1 </text>,<rect width="30" height="10" x="715" y="0" fill="green" />
+	<text x="715" y="25" font-family= "monospace" font-size="10">Spain 1 </text>,<rect width="30" height="20" x="780" y="0" fill="green" />
+	<text x="780" y="35" font-family= "monospace" font-size="10">Sweden 2 </text>,<rect width="30" height="70" x="845" y="0" fill="green" />
+	<text x="845" y="85" font-family= "monospace" font-size="10">Switzerland 7 </text>,<rect width="30" height="10" x="910" y="0" fill="green" />
+	<text x="910" y="25" font-family= "monospace" font-size="10">Italy 1 </text>,<rect width="30" height="50" x="975" y="0" fill="green" />
+	<text x="975" y="65" font-family= "monospace" font-size="10">New Zealand 5 </text>,<rect width="30" height="150" x="1040" y="0" fill="green" />
+	<text x="1040" y="165" font-family= "monospace" font-size="10">Luxembourg 15 </text>,<rect width="30" height="40" x="1105" y="0" fill="green" />
+	<text x="1105" y="55" font-family= "monospace" font-size="10">Iceland 4 </text>,<rect width="30" height="20" x="1170" y="0" fill="green" />
+	<text x="1170" y="35" font-family= "monospace" font-size="10">Malta 2 </text>,<rect width="30" height="10" x="1235" y="0" fill="green" />
+	<text x="1235" y="25" font-family= "monospace" font-size="10">Belgium 1 </text>,<rect width="30" height="10" x="1300" y="0" fill="green" />
+	<text x="1300" y="25" font-family= "monospace" font-size="10">Finland 1 </text>
+	</svg>
